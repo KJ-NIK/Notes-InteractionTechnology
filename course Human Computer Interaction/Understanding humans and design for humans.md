@@ -1,4 +1,4 @@
-# **Human-Computer-Interaction**
+# **Human-Computer-Interaction Introduction**
 > ***Understanding humans and design for humans***
 
 ### **Humans**
@@ -29,3 +29,5 @@ What is interface?
 ***
 
 ### **Designing HCI - Interaction Design**
+#### **Design goals**
+
